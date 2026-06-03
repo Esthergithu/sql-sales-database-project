@@ -71,26 +71,7 @@ INNER JOIN – Matching orders with their customers, and orders with their items
 
 LEFT JOIN – Finding customers who haven't placed any orders yet
 
-JOINing multiple tables – The query I wrote that linked Customers → Orders → OrderItems → Products to see complete order details with customer names and product descriptions
+JOINing multiple tables – The query I wrote that linked Customers → Orders → OrderItems → Products to see complete order details with customer names and product descriptions.
 
-This was especially valuable because real-world queries almost never pull from just one table.
-
-Key Takeaways
-
-Constraints aren't just theoretical rules — they actively prevent bad data from entering your system
-
-Aggregations and grouping transform raw transactional data into actual business reports
-
-Joins are essential — you can't get meaningful answers from a relational database without them
-
-What I Would Add Next
-Given more time, I would expand this project by:
-
-Adding more realistic sample data (100+ customers, thousands of orders)
-
-Creating views for common reports (monthly sales, top customers, slow-moving inventory)
-
-Implementing indexes to improve query performance on large datasets
-
-This expanded version should give you a solid, professional summary that demonstrates both what you built and what you learned. Would you like me to adjust the tone (more technical, more beginner-friendly, or more resume-focused)?
+This expanded version should give you a solid, professional summary that demonstrates both what you built and what you learnemore beginner-friendly, or more resume-focused)?
 
